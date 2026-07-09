@@ -175,26 +175,5 @@ Spring Boot • Java • React • PostgreSQL • Docker
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adrid34&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrid34&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=adrid34&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
 
 > **"Great software isn't just code—it's building platforms that enable people to solve bigger problems."**
